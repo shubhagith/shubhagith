@@ -4,7 +4,9 @@
 <img align="right" alt="coading" width="400" src="https://c.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhagith&label=Profile%20views&color=0e75b6&style=flat" alt="shubhagith" /> </p>
-
+##  About Me:
+ 🔭 I’m currently working on Web Dev Projects.<br>
+ 👯 I’m looking to collaborate on FullStack Projects.<br>
 - 🌱 I’m currently learning **JAVA,HTML5,CSS3,JavaScript,C,SQL**
 
 - 📫 How to reach me **lipi986131@gmail.com**
