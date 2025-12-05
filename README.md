@@ -6,8 +6,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhagith&label=Profile%20views&color=0e75b6&style=flat" alt="shubhagith" /> </p>
 ##  About Me:
 <br>
- 🔭 I’m currently working on Cloud Computing Projects.<br>
- 👯 I’m looking to collaborate on FullStack Projects.<br>
+ 🔭 I’m currently working on Data Analyst Projects.<br>
+ 👯 I’m looking to collaborate on Data Science Projects.<br>
 - 🌱 I’m currently learning **Python,Django,Artificial Intelligence,Pandas,Numpy,Matplotlib,HTML5,CSS3,AWS,SQL,Linux**
 
 - 📫 How to reach me **shubhashree636@gmail.com**
