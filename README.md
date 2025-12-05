@@ -8,7 +8,7 @@
 <br>
  🔭 I’m currently working on Cloud Computing Projects.<br>
  👯 I’m looking to collaborate on FullStack Projects.<br>
-- 🌱 I’m currently learning **Python,Django,Pandas,Numpy,Matplotlib,HTML5,CSS3,AWS,SQL,Linux**
+- 🌱 I’m currently learning **Python,Django,Artificial Intelligence,Pandas,Numpy,Matplotlib,HTML5,CSS3,AWS,SQL,Linux**
 
 - 📫 How to reach me **shubhashree636@gmail.com**
 
